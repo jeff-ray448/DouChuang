@@ -18,7 +18,7 @@ This project is compatible with iOS devices and can be compiled using Xcode on a
 
 1. Clone this repository to your local machine:
 
-    git clone `https://github.com/yourusername/DouChuang.git`
+    git clone `https://github.com/jeff-ray448/DouChuang.git`
 
 2. Open the project in Xcode.
 
